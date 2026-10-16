@@ -1,0 +1,13 @@
+{
+  "name": "candy-st-tienda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tienda web CANDY st.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mercadopago": "^2.8.0"
+  }
+}
